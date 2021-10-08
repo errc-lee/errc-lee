@@ -1,19 +1,18 @@
 
 ### Hi there 👋🏼
 
-Welcome to my page. I love building things and interested in developing (open source) software solutions using Javascript, React, and Node.js
+Welcome to my page. I love building things and interested in developing software solutions using Javascript, React, and Node.js as well as learning new technologies.
 
 <br/>
+
 <br/>
 
-Languages I have used: 
+### Languages and Tools I have used: 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-
-Technologies I have worked with: 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
@@ -25,7 +24,6 @@ Technologies I have worked with:
 
 
 ## 📮 Get in Touch
-- Web: 
 - LinkedIn: [linkedin.com/in/errc-lee/](https://www.linkedin.com/in/errc-lee/)
 
 <!--

@@ -1,7 +1,7 @@
 
 ### Hi there 👋🏼
 
-Welcome to my page. I love building things and interested in developing software solutions using Javascript, React, and Node.js as well as learning new technologies.
+Welcome to my page. I love building things and interested in developing software solutions. Most of my recent work has been focused in working with Javascript, React, and Node.js, but I love learning new technologies.
 
 <br/>
 
